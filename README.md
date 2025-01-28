@@ -82,16 +82,3 @@ Output: Correct recall of `A`.
 ### Enhanced BAM Network
 Input: Heavily distorted representation of `B`.
 Output: Accurate recall of `B` due to error tolerance.
-
-## How to Contribute
-1. Fork the repository.
-2. Create a new branch.
-3. Make changes and test thoroughly.
-4. Submit a pull request with a clear description of your changes.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contact
-For questions or support, feel free to open an issue or contact the maintainer at [your-email@example.com].
-
